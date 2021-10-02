@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF 
+		     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#">
+
+  <foaf:PersonalProfileDocument rdf:about="http://localhost/webs/ini.rdf"> 
+  	<rdfs:label> Provinces of Indonesia </rdfs:label>
+    <foaf:maker rdf:resource="http://localhost/webs/"/>
+    <foaf:primaryTopic rdf:resource="http://localhost/webs/"/>
+  </foaf:PersonalProfileDocument>
+    <foaf:Person rdf:about="http://localhost/webs/">
+  	
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bali">
+        <rdfs:label>Bali</rdfs:label>
+        <rdfs:comment>Bali adalah sebuah provinsi di Indonesia yang ibu kota provinsinya bernama Denpasar. Bali juga merupakan salah satu pulau di Kepulauan Nusa Tenggara. Di awal kemerdekaan Indonesia, pulau ini termasuk dalam Provinsi Sunda Kecil yang beribu kota di Singaraja, dan kini terbagi menjadi 3 provinsi: Bali, Nusa Tenggara Barat, dan Nusa Tenggara Timur. Selain terdiri dari Pulau Bali, wilayah Provinsi Bali juga terdiri dari pulau-pulau yang lebih kecil di sekitarnya, yaitu Pulau Nusa Penida, Pulau Nusa Lembongan, Pulau Nusa Ceningan, Pulau Serangan, dan Pulau Menjangan. Secara geografis, Bali terletak di antara Pulau Jawa dan Pulau Lombok. Mayoritas penduduk Bali adalah pemeluk agama Hindu. Di dunia, Bali terkenal sebagai tujuan pariwisata dengan keunikan berbagai hasil seni-budayanya, khususnya bagi para wisatawan Jepang dan Australia. Bali juga dikenal dengan julukan Pulau Dewata dan Pulau Seribu Pura.</rdfs:comment>
+        <rdfs:luas>5.780 km²</rdfs:luas>
+        <rdfs:lahir>14 Agustus 1958</rdfs:lahir>
+        <rdfs:penduduk>4.336.900 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/Bali"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bengkulu">
+        <rdfs:label>Bengkulu</rdfs:label>
+        <rdfs:comment>Bengkulu adalah sebuah provinsi di Indonesia. Ibu kotanya berada di Kota Bengkulu. Provinsi ini terletak di bagian barat daya Pulau Sumatra. </rdfs:comment>
+        <rdfs:luas>19.788 km²</rdfs:luas>
+        <rdfs:lahir>18 November 1968 </rdfs:lahir>
+        <rdfs:penduduk>1.904.793 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/Bengkulu"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+  	<owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Gorontalo">
+        <rdfs:label>Gorontalo</rdfs:label>
+        <rdfs:comment>Gorontalo adalah provinsi di Indonesia yang lahir pada tanggal 5 Desember 2000 dan memiliki ibu kota provinsi bernama sama yaitu, Kota Gorontalo. Sama halnya dengan ibu kotanya, Provinsi Gorontalo terkenal dengan julukan "Serambi Madinah". Dalam catatan sejarah Indonesia, satu-satunya Presiden RI yang berasal dari Suku Gorontalo adalah Presiden Republik Indonesia ke-3, Prof. DR. Ing. B.J. Habibie, dari garis keturunan ayahnya yang memiliki marga Habibie, yaitu Alwi Abdul Jalil Habibie. Seiring dengan munculnya pemekaran wilayah yang berkenaan dengan otonomi daerah di era Reformasi, provinsi ini kemudian dibentuk berdasarkan Undang-Undang Nomor 38 Tahun 2000, tertanggal 22 Desember dan menjadi provinsi ke-32 di Indonesia. Provinsi Gorontalo terletak pada Semenanjung Gorontalo di Pulau Sulawesi, tepatnya di bagian barat dari Provinsi Sulawesi Utara. Luas wilayah provinsi ini 12.435,00 km² dengan jumlah penduduk sebanyak 1.166.142 jiwa (2018), dengan laju pertumbuhan penduduk sebesar 0.91%. Disisi lain, masyarakat Gorontalo juga memiliki budaya "Moleleyangi" atau dalam bahasa Indonesia disebut "Merantau", dimana penyebaran etnis Gorontalo paling banyak tersebar di Sulawesi Utara, Sulawesi Tengah, dan Kalimantan Timur. Ditengarai, penyebaran Diaspora Orang Gorontalo telah mencapai 5 kali lipat dari total penduduknya sekarang yang tersebar di seluruh dunia.</rdfs:comment>
+        <rdfs:luas>11.257 km²</rdfs:luas>
+        <rdfs:lahir>22 Desember 2000</rdfs:lahir>
+        <rdfs:penduduk>1.166.142 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/Gorontalo"/>
+      </rdf:Description>
+    </owl:sameAs>
+    
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Jambi">
+        <rdfs:label>Jambi</rdfs:label>
+        <rdfs:comment>Jambi adalah sebuah Provinsi di Indonesia yang terletak di pesisir timur di bagian tengah Pulau Sumatra. Jambi adalah nama provinsi di Indonesia yang ibu kotanya bernama sama dengan nama provinsinya, selain Bengkulu, Daerah Khusus Ibukota Jakarta, dan Gorontalo.</rdfs:comment>
+        <rdfs:luas>50.058 km²</rdfs:luas>
+        <rdfs:lahir>9 Agustus 1957 </rdfs:lahir>
+        <rdfs:penduduk>3.624.579 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/Jambi"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/West_Java">
+        <rdfs:label>Jawa Barat</rdfs:label>
+        <rdfs:comment>Jawa Barat, (Aksara Jawa: ꦗꦮ​ꦏꦸꦭꦺꦴꦤ꧀, Sunda dan Cirebon: Jawa Kulon) adalah sebuah provinsi di Indonesia, ibu kotanya berada di Bandung.</rdfs:comment>
+        <rdfs:luas>35.377 km²</rdfs:luas>
+        <rdfs:lahir>4 Juli 1950</rdfs:lahir>
+        <rdfs:penduduk>48.683.861 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/West_Java"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Central_Java">
+        <rdfs:label>Jawa Tengah</rdfs:label>
+        <rdfs:comment>Jawa Tengah adalah sebuah provinsi Indonesia yang terletak di bagian tengah Pulau Jawa. Ibu kotanya adalah Semarang. Provinsi ini berbatasan dengan Provinsi Jawa Barat di sebelah barat, Samudra Hindia dan Daerah Istimewa Yogyakarta di sebelah selatan, Jawa Timur di sebelah timur, dan Laut Jawa di sebelah utara. Luas wilayahnya 32.800,69 km², atau sekitar 28,94% dari luas pulau Jawa. Provinsi Jawa Tengah juga meliputi Pulau Nusakambangan di sebelah selatan (dekat dengan perbatasan Jawa Barat), serta Kepulauan Karimun Jawa di Laut Jawa. Penduduk Jawa Tengah berdasarkan Badan Pusat Statistik tahun 2020 berjumlah 34.718.204 jiwa dengan kepadatan 1.058,46 jiwa/km²</rdfs:comment>
+        <rdfs:luas>32.800 km²</rdfs:luas>
+        <rdfs:lahir>4 Juli 1950</rdfs:lahir>
+        <rdfs:penduduk>34.718.204 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/Central_Java"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+     <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/East_Java">
+        <rdfs:label>Jawa Timur</rdfs:label>
+        <rdfs:comment>Jawa Timur adalah sebuah provinsi di bagian timur Pulau Jawa, Indonesia. Ibu kotanya terletak di Surabaya. Luas wilayahnya 47.922 km², dan jumlah penduduknya 39.698.631 jiwa (per 2019). Jawa Timur memiliki wilayah terluas di antara 6 provinsi di Pulau Jawa, dan memiliki jumlah penduduk terbanyak kedua di Indonesia setelah Jawa Barat. Jawa Timur berbatasan dengan Laut Jawa di utara, Selat Bali di timur, Samudra Hindia di selatan, serta Provinsi Jawa Tengah di barat. Wilayah Jawa Timur juga meliputi Pulau Madura, Pulau Bawean, Pulau Kangean serta sejumlah pulau-pulau kecil di Laut Jawa (Kepulauan Masalembu), dan Samudera Hindia (Pulau Sempu, dan Nusa Barung). Provinsi ini didiami oleh kelompok etnis yang beragam, seperti suku Jawa, suku Madura, dan orang Tionghoa-Indonesia. Sebagian besar masyarakat di Jawa Timur menganut agama Islam, sekitar 96% dari total populasi. Agama lain seperti Kristen, yang sebagian besar dianut oleh orang Tionghoa-Indonesia dan imigran dari Indonesia Timur dan Sumatra Utara, dan juga agama Hindu yang kebanyakan dianut oleh suku Tengger di Taman Nasional Bromo Tengger Semeru dan suku Bali yang mendiami bagian paling timur provinsi yang berbatasan dengan Bali. Bahasa Indonesia adalah bahasa resmi provinsi dan juga seluruh bangsa, tetapi bahasa Jawa dan bahasa Madura adalah bahasa yang paling sering digunakan. Bahasa Indonesia hanya digunakan untuk komunikasi antar-etnis dan keperluan resmi. Jawa Timur adalah salah satu provinsi di Indonesia yang menawarkan berbagai jenis tempat wisata. Daerah ini menawarkan berbagai objek wisata alam mulai dari gunung, pantai, gua, hingga air terjun. Pada umumnya, hampir setiap kabupaten atau kota di Jawa Timur memiliki tujuan wisata yang unik, seperti gunung berapi Ijen di Banyuwangi, Taman Nasional Baluran di Situbondo, dan sebagainya. Jawa Timur dikenal sebagai pusat industri dan keuangan kawasan Tengah dan Timur Indonesia, yang memiliki signifikansi perekonomian cukup tinggi, yakni berkontribusi sekitar 15% terhadap Produk Domestik Bruto nasional.</rdfs:comment>
+        <rdfs:luas>47.799 km²</rdfs:luas>
+        <rdfs:lahir>4 Juli 1950</rdfs:lahir>
+        <rdfs:penduduk>39.698.631 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/East_Java"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Central_Kalimantan">
+        <rdfs:label>Kalimantan Tengah</rdfs:label>
+        <rdfs:comment>Kalimantan Tengah adalah salah satu provinsi di Indonesia yang terletak di Pulau Kalimantan. Ibu kotanya adalah Kota Palangkaraya. Kalimantan Tengah memiliki luas 153.564,60 km². Berdasarkan sensus tahun 2010, provinsi ini memiliki populasi 2.202.599 jiwa, yang terdiri atas 1.147.878 laki-laki dan 1.054.721 perempuan. Data BPS Kalimantan Tengah tahun 2019 menunjukkan penduduk provinsi ini tahun 2018 bertambah menjadi 2.660.209 (Laki-laki 1.391.078 jiwa dan perempuan 1.269.131 jiwa).</rdfs:comment>
+        <rdfs:luas>153.564 km²</rdfs:luas>
+        <rdfs:lahir>2 Juli 1958</rdfs:lahir>
+        <rdfs:penduduk>2.577.215 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/Central_Kalimantan"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/East_Kalimantan">
+        <rdfs:label>Kalimantan Timur</rdfs:label>
+        <rdfs:comment>Kalimantan Timur adalah sebuah provinsi Indonesia di Pulau Kalimantan bagian ujung timur yang berbatasan dengan Malaysia, Kalimantan Utara, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Barat, dan Sulawesi. Luas total Kaltim adalah 127.346,92 km² dan populasi sebesar 3.575.449 jiwa (2017). Kaltim merupakan wilayah dengan kepadatan penduduk terendah keempat di nusantara. Ibu kota provinsi ini adalah kota Samarinda. Provinsi Kalimantan Timur sebelum dimekarkan menjadi Kalimantan Utara merupakan provinsi terluas kedua di Indonesia setelah Papua, dengan luas 194.489 km persegi yang hampir sama dengan Pulau Jawa atau sekitar 6,8% dari total luas wilayah Indonesia.</rdfs:comment>
+        <rdfs:luas>129.066 km²</rdfs:luas>
+        <rdfs:lahir>2 Juli 1958</rdfs:lahir>
+        <rdfs:penduduk>3.721.389 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/East_Kalimantan"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/North_Kalimantan">
+        <rdfs:label>Kalimantan Utara</rdfs:label>
+        <rdfs:comment>Kalimantan Utara adalah sebuah provinsi di Indonesia yang terletak di bagian utara Pulau Kalimantan. Provinsi ini berbatasan langsung dengan negara tetangga Malaysia, yaitu Negara Bagian Sabah dan Sarawak. Pusat pemerintahan Kalimantan Utara saat ini berada di kecamatan Tanjung Selor, bersama dengan pusat pemerintahan Kabupaten Bulungan. Saat ini Kalimantan Utara merupakan provinsi termuda Indonesia yang resmi disahkan menjadi provinsi dalam rapat paripurna DPR pada tanggal 25 Oktober 2012 berdasarkan Undang-undang Nomor 20 Tahun 2012. Kementerian Dalam Negeri menetapkan 11 daerah otonomi baru yang terdiri atas satu provinsi dan 10 kabupaten, termasuk Kaltara pada hari Senin, 22 April 2013. Bersama dengan penetapan itu, Menteri Dalam Negeri Gamawan Fauzi melantik kepala daerah masing-masing, termasuk pejabat Gubernur Kaltara yakni Irianto Lambrie. Infrastruktur pemerintahan Kalimantan Utara masih dalam proses persiapan yang direncanakan akan berlangsung paling lama dalam 1 tahun.</rdfs:comment>
+        <rdfs:luas>13.925 km²</rdfs:luas>
+        <rdfs:lahir>25 Oktober 2012 </rdfs:lahir>
+        <rdfs:penduduk>768.505 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/North_Kalimantan"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bangka_Belitung_Islands">
+        <rdfs:label>Kepulauan Bangka Belitung</rdfs:label>
+        <rdfs:comment>Kepulauan Bangka Belitung  adalah sebuah provinsi di Indonesia yang terdiri dari dua pulau utama yaitu Pulau Bangka dan Pulau Belitung serta ratusan pulau-pulau kecil, total pulau yang telah bernama berjumlah 470 buah dan yang berpenghuni hanya 50 pulau. Bangka Belitung terletak di bagian timur Pulau Sumatra, dekat dengan Provinsi Sumatra Selatan. Bangka Belitung dikenal sebagai daerah penghasil timah, memiliki pantai yang indah dan kerukunan antar etnis. Ibu kota provinsi ini ialah Pangkalpinang. Pemerintahan provinsi ini disahkan pada tanggal 9 Februari 2001. Setelah dilantiknya Pj. Gubernur yakni H. Amur Muchasim, SH (mantan Sekjen Depdagri) yang menandai dimulainya aktivitas roda pemerintahan provinsi. Selat Bangka memisahkan Pulau Sumatra dan Pulau Bangka, sedangkan Selat Gaspar memisahkan Pulau Bangka dan Pulau Belitung. Di bagian utara provinsi ini terdapat Laut Tiongkok Selatan, bagian selatan adalah Laut Jawa dan Pulau Kalimantan di bagian timur yang dipisahkan dari Pulau Belitung oleh Selat Karimata. Provinsi Kepulauan Bangka Belitung sebelumnya adalah bagian dari Sumatra Selatan, namun menjadi provinsi sendiri bersama Banten dan Gorontalo pada tahun 2000. Provinsi Kepulauan Bangka Belitung didirikan berdasarkan Undang-Undang Nomor 27 Tahun 2000 Tentang Pembentukan Provinsi Kepulauan Bangka Belitung tanggal 21 November 2000 yang terdiri dari Kabupaten Bangka, Kabupaten Belitung dan Kota Pangkalpinang. Pada tahun 2003 berdasarkan Undang-Undang Nomor 5 Tahun 2003 tanggal 23 Januari 2003 dilakukan pemekaran wilayah dengan penambahan 4 kabupaten yaitu Bangka Barat, Bangka Tengah, Bangka Selatan dan Belitung Timur. Provinsi Kepulauan Bangka Belitung merupakan pemekaran wilayah dari Provinsi Sumatra Selatan. </rdfs:comment>
+        <rdfs:luas>16.424 km²</rdfs:luas>
+        <rdfs:lahir>21 November 2000 </rdfs:lahir>
+        <rdfs:penduduk>1.488.800 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/Bangka_Belitung_Islands"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Maluku_(province)">
+        <rdfs:label>Maluku</rdfs:label>
+        <rdfs:comment>Maluku adalah sebuah provinsi yang meliputi bagian selatan Kepulauan Maluku, Indonesia. Provinsi ini berbatasan dengan Laut Seram di utara, Samudra Hindia dan Laut Arafura di selatan, Papua di timur, dan Sulawesi di barat. Ibu kota dan kota terbesarnya ialah Ambon. Maluku merupakan provinsi terbesar ke-28 menurut jumlah penduduk dengan perkiraan jumlah penduduk sebanyak 1,8 juta jiwa dan ke-14 menurut luas wilayah dengan luas wilayah sebesar 46 ribu kilometer persegi. Sebelum masa penjajahan, Maluku menjadi poros perdagangan rempah dunia dengan cengkih dan pala sebagai barang dagangan utama. Hal ini membuat Maluku dijuluki sebagai "Kepulauan Rempah" hingga hari ini. Rakyat Maluku berdagang dengan para pedagang dari berbagai daerah di Nusantara maupun mancanegara seperti pedagang-pedagang Tionghoa, Arab, dan Eropa. Kekayaan rempah ini pun menjadi daya tarik bangsa-bangsa Eropa yang pada akhirnya menguasai Maluku, dimulai oleh Portugis dan terakhir Belanda. Sejarah Maluku sebagai satu kesatuan dimulai dari pembentukan tiga kegubernuran oleh Perusahaan Hindia Timur Belanda pada abad ke-18, yaitu Ambon, Kepulauan Banda, dan Ternate yang disatukan oleh Belanda pada awal abad ke-19 dalam satu nama, yaitu Maluku. Setelah masa penjajahan, Maluku tetap dipertahankan seutuhnya sebagai provinsi sebelum Maluku Utara dimekarkan menjadi provinsi sendiri pada akhir abad ke-20.</rdfs:comment>
+        <rdfs:luas>46.914 km²</rdfs:luas>
+        <rdfs:lahir>17 Juni 1958</rdfs:lahir>
+        <rdfs:penduduk>1,831,880 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/Maluku_(province)"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/North_Maluku">
+        <rdfs:label>Maluku Utara</rdfs:label>
+        <rdfs:comment>Maluku Utara adalah salah satu provinsi di Indonesia. Maluku Utara resmi terbentuk pada tanggal 4 Oktober 1999, melalui UU RI Nomor 46 Tahun 1999 dan UU RI Nomor 6 Tahun 2003. Sebelum resmi menjadi sebuah provinsi, Maluku Utara merupakan bagian dari Provinsi Maluku, yaitu Kabupaten Maluku Utara dan Kabupaten Halmahera Tengah. Hingga akhir tahun 2019, penduduk provinsi kepulauam ini berjumlah 2.255.771 jiwa dengan kepadatan 39,26 jiwa/km². Pada awal pendiriannya, Provinsi Maluku Utara beribu kota di Ternate yang berlokasi di kaki Gunung Gamalama, selama 11 tahun. Tepatnya sampai dengan 4 Agustus 2010, setelah 11 tahun masa transisi dan persiapan infrastruktur, ibu kota Provinsi Maluku Utara dipindahkan ke kelurahan Sofifi, Kecamatan Oba Utara, Kota Tidore Kepulauan yang terletak di Pulau Halmahera yang merupakan pulau terbesarnya.</rdfs:comment>
+        <rdfs:luas>31.982 km²</rdfs:luas>
+        <rdfs:lahir>4 Oktober 1999</rdfs:lahir>
+        <rdfs:penduduk>1.255.771 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/North_Maluku"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/West_Nusa_Tenggara">
+        <rdfs:label>Nusa Tenggara Barat</rdfs:label>
+        <rdfs:comment>Nusa Tenggara Barat ialah sebuah provinsi di Indonesia yang berada pada bagian barat Kepulauan Nusa Tenggara. Provinsi ini beribu kota di Mataram dan memiliki 10 Kabupaten dan 2 Kota, termasuk kota Mataram. Jumlah penduduk Nusa Tenggara Barat tahun 2019 berjumlah 5.070.385 jiwa. Pada awal kemerdekaan Indonesia, wilayah ini termasuk dalam wilayah Provinsi Sunda Kecil yang beribu kota di Singaraja. Kemudian, wilayah Provinsi Sunda Kecil dibagi menjadi 3 provinsi: Bali, Nusa Tenggara Barat, dan Nusa Tenggara Timur. Dua pulau terbesar di provinsi ini adalah Lombok yang terletak di barat dan Sumbawa yang terletak di timur. Sebagian besar dari penduduk Lombok berasal dari suku Sasak, sementara masyarakat Bima (suku Mbojo) dan Sumbawa merupakan kelompok etnis terbesar di Pulau Sumbawa. Mayoritas penduduk Nusa Tenggara Barat beragama Islam, dengan konsentrasi 96,11%.</rdfs:comment>
+        <rdfs:luas>18.572 km²</rdfs:luas>
+        <rdfs:lahir>14 Agustus 1958</rdfs:lahir>
+        <rdfs:penduduk>5.070.385 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/West_Nusa_Tenggara"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+     <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/East_Nusa_Tenggara">
+        <rdfs:label>Nusa Tenggara Timur </rdfs:label>
+        <rdfs:comment>Nusa Tenggara Timur adalah sebuah provinsi di Indonesia yang meliputi bagian timur Kepulauan Nusa Tenggara. Provinsi ini memiliki ibu kota di Kupang dan memiliki 22 kabupaten/kota. Provinsi ini berada di Sunda Kecil.Setelah pemekaran, Nusa Tenggara Timur adalah sebuah provinsi Indonesia yang terletak di bagian tenggara Indonesia. Provinsi ini terdiri dari beberapa pulau, antara lain Pulau Flores, Pulau Sumba, Pulau Timor, Pulau Alor, Pulau Lembata, Pulau Rote, Pulau Sabu, Pulau Adonara, Pulau Solor, Pulau Komodo dan Pulau Palue. Provinsi ini terdiri dari kurang lebih 550 pulau, tiga pulau utama di Nusa Tenggara Timur adalah Pulau Flores, Pulau Sumba dan Pulau Timor Barat (biasa dipanggil Timor).</rdfs:comment>
+        <rdfs:luas>48.718 km²</rdfs:luas>
+        <rdfs:lahir>14 Agustus 1958</rdfs:lahir>
+        <rdfs:penduduk>5.456.203 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/East_Nusa_Tenggara"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Papua_(province)">
+        <rdfs:label>Papua</rdfs:label>
+        <rdfs:comment>Papua adalah provinsi yang terletak di bagian tengah Pulau Papua atau bagian paling timur wilayah Papua milik Indonesia. Belahan timurnya merupakan negara Papua Nugini. Provinsi Papua sebelumnya bernama Irian Jaya yang mencakup seluruh wilayah Pulau Papua. Sejak tahun 2003 dibagi menjadi dua provinsi, dengan bagian timur tetap memakai nama Papua sedangkan bagian baratnya memakai nama Papua Barat (Pabar). Provinsi Papua memiliki luas 316.553,07 km2 dan merupakan provinsi terbesar dan terluas pertama di Indonesia. </rdfs:comment>
+        <rdfs:luas>319.036 km²</rdfs:luas>
+        <rdfs:lahir>10 September 1969 </rdfs:lahir>
+        <rdfs:penduduk>4.346.593 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/Papua_(province)"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/West_Papua_(province)">
+        <rdfs:label>Papua Barat</rdfs:label>
+        <rdfs:comment>Papua Barat adalah sebuah provinsi Indonesia yang terletak di ujung barat Pulau Papua. Ibu kotanya adalah Manokwari. Nama provinsi ini sebelumnya adalah Irian Jaya Barat yang ditetapkan dalam Undang-Undang Nomor 45 Tahun 1999. Berdasarkan Peraturan Pemerintah Nomor 24 Tahun 2007 tanggal 18 April 2007, nama provinsi ini diubah menjadi Papua Barat. Papua Barat dan Papua merupakan provinsi yang memperoleh status otonomi khusus. Provinsi Papua Barat, meski telah menjadi provinsi tersendiri, tetap mendapat perlakuan khusus sebagaimana provinsi induknya. Provinsi ini juga mempunyai KPUD sendiri dan menyelenggarakan pemilu untuk pertama kalinya pada tanggal 5 April 2004.</rdfs:comment>
+        <rdfs:luas>99.671 km²</rdfs:luas>
+        <rdfs:lahir>4 Oktober 1999</rdfs:lahir>
+        <rdfs:penduduk>937.458 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/West_Papua_(province)"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Riau_Islands">
+        <rdfs:label>Riau</rdfs:label>
+        <rdfs:comment>Riau adalah sebuah provinsi di Indonesia yang terletak di bagian tengah pulau Sumatra. Provinsi ini terletak di bagian tengah pantai timur Pulau Sumatra, yaitu di sepanjang pesisir Selat Melaka. Hingga tahun 2004, provinsi ini juga meliputi Kepulauan Riau, sekelompok besar pulau-pulau kecil (pulau-pulau utamanya antara lain Pulau Batam dan Pulau Bintan) yang terletak di sebelah timur Sumatra dan sebelah selatan Singapura. Kepulauan ini dimekarkan menjadi provinsi tersendiri pada Juli 2004. Ibu kota dan kota terbesar Riau adalah Pekanbaru. Kota besar dan Ibukota Kabupaten lainnya antara lain Dumai, Selatpanjang, Bagansiapiapi, Bengkalis, Bangkinang, Tembilahan, dan Rengat. Riau saat ini merupakan salah satu provinsi terkaya di Indonesia, dan sumber dayanya didominasi oleh sumber alam, terutama minyak bumi, gas alam, karet, kelapa sawit dan perkebunan serat. Tetapi, penebangan hutan yang merajalela telah mengurangi luas hutan secara signifikan, dari 78% pada 1982 menjadi hanya 33% pada 2005. Rata-rata 160.000 hektare hutan habis ditebang setiap tahun, meninggalkan 22%, atau 2,45 juta hektare pada tahun 2009. Deforestasi dengan tujuan pembukaan kebun-kebun kelapa sawit dan produksi kertas telah menyebabkan kabut asap yang sangat mengganggu di provinsi ini selama bertahun-tahun, dan menjalar ke negara-negara tetangga seperti Malaysia dan Singapura.</rdfs:comment>
+        <rdfs:luas>87.023 km²</rdfs:luas>
+        <rdfs:lahir>9 Agustus 1957 </rdfs:lahir>
+        <rdfs:penduduk>6.814.909 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/Riau_Islands"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/West_Sulawesi">
+        <rdfs:label>Sulawesi Barat</rdfs:label>
+        <rdfs:comment>Baliiii</rdfs:comment>
+        <rdfs:luas>5.780 km²</rdfs:luas>
+        <rdfs:lahir>14 Agustus 1958</rdfs:lahir>
+        <rdfs:penduduk>4.336.900 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/West_Sulawesi"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/South_Sulawesi">
+        <rdfs:label>Sulawesi Selatan</rdfs:label>
+        <rdfs:comment>Sulawesi Barat adalah sebuah provinsi di Indonesia yang terletak di bagian barat Sulawesi. Ibu kotanya terletak di Mamuju, Kabupaten Mamuju. Luas wilayahnya sekitar 16,796.19 km².</rdfs:comment>
+        <rdfs:luas>16.787 km²</rdfs:luas>
+        <rdfs:lahir>5 Oktober 2004 </rdfs:lahir>
+        <rdfs:penduduk>1.355.554 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/South_Sulawesi"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Central_Sulawesi">
+        <rdfs:label>Sulawesi Tengah</rdfs:label>
+        <rdfs:comment>Sulawesi Tengah adalah sebuah provinsi di bagian tengah Pulau Sulawesi, Indonesia. Ibu kota provinsi ini adalah Kota Palu. Luas wilayahnya 61.841,29 km², dan jumlah penduduknya 3.222.241 jiwa (2015). Sulawesi Tengah memiliki wilayah terluas di antara semua provinsi di Pulau Sulawesi, dan memiliki jumlah penduduk terbanyak kedua di Pulau Sulawesi setelah provinsi Sulawesi Selatan. Gubernur yang menjabat sekarang adalah Drs. H. Longki Djanggola, M.Si. bersama dengan Rusli Baco Dg. Palabbi.</rdfs:comment>
+        <rdfs:luas>61.841 km²</rdfs:luas>
+        <rdfs:lahir>23 September 1964 </rdfs:lahir>
+        <rdfs:penduduk>3.054.020 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/Central_Sulawesi"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Southeast_Sulawesi">
+        <rdfs:label>Sulawesi Tenggara</rdfs:label>
+        <rdfs:comment>Sulawesi Tenggara merupakan sebuah provinsi di Indonesia yang terletak bagian tenggara pulau Sulawesi dengan ibu kota Kendari. Provinsi Sulawesi Tenggara terletak di Jazirah Tenggara Pulau Sulawesi, secara geografis terletak di bagian selatan garis khatulistiwa di antara 02°45' – 06°15' Lintang Selatan dan 120°45' – 124°30' Bujur Timur serta mempunyai wilayah daratan seluas 38.140 km² (3.814.000 ha) dan perairan (laut) seluas 110.000 km² (11.000.000 ha).</rdfs:comment>
+        <rdfs:luas>38.067 km²</rdfs:luas>
+        <rdfs:lahir>23 September 1964</rdfs:lahir>
+        <rdfs:penduduk>2.704.737 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/Southeast_Sulawesi"/>
+      </rdf:Description>
+    </owl:sameAs>
+    
+    <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/North_Sulawesi">
+        <rdfs:label>Sumatra Selatan</rdfs:label>
+        <rdfs:comment>Sumatra Selatan adalah provinsi di Indonesia yang terletak di bagian selatan Pulau Sumatra. Provinsi ini beribu kota di Palembang. Secara geografis, Sumatra Selatan berbatasan dengan provinsi Jambi di utara, provinsi Kep. Bangka-Belitung di timur, provinsi Lampung di selatan dan Provinsi Bengkulu di barat. Provinsi ini kaya akan sumber daya alam, seperti minyak bumi, gas alam dan batu bara. Selain itu, ibu kota provinsi Sumatra Selatan, Palembang, telah terkenal sejak dahulu karena menjadi pusat Kerajaan Sriwijaya. Di samping itu, provinsi ini banyak memiliki tujuan wisata yang menarik untuk dikunjungi seperti Sungai Musi, Jembatan Ampera, Pulau Kemaro, Danau Ranau, Kota Pagaralam dan lain-lain. Karena sejak dahulu telah menjadi pusat perdagangan, secara tidak langsung ikut memengaruhi kebudayaan masyarakatnya. Makanan khas dari provinsi ini sangat beragam, di antaranya adalah pempek, model, tekwan, pindang patin, pindang tulang, sambal jokjok, berengkes dan tempoyak.</rdfs:comment>
+        <rdfs:luas>91.592 km²</rdfs:luas>
+        <rdfs:lahir>14 Agustus 1950</rdfs:lahir>
+        <rdfs:penduduk>8.391.489 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/North_Sulawesi"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+	   <owl:sameAs>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/North_Sumatra">
+        <rdfs:label>Sumatra Utara</rdfs:label>
+        <rdfs:comment>Sumatra Utara adalah sebuah provinsi di Indonesia yang terletak di bagian utara Pulau Sumatra. Provinsi ini beribu kota di Medan. Luas wilayahnya 72.981 km2. Sumatra Utara adalah provinsi dengan jumlah penduduk terbesar keempat setelah Jawa Barat, Jawa Timur, dan Jawa Tengah, dan pada tahun 2019, jumlah penduduknya adalah sebesar 14.908.036 jiwa.</rdfs:comment>
+        <rdfs:luas>72.981 km²</rdfs:luas>
+        <rdfs:lahir>29 November 1956 </rdfs:lahir>
+        <rdfs:penduduk>14.908.036 Jiwa</rdfs:penduduk>
+        <rdf:resource rdf:resource="http://dbpedia.org/resource/North_Sumatra"/>
+      </rdf:Description>
+    </owl:sameAs>
+
+    
+</foaf:Person></rdf:RDF>
